@@ -15,5 +15,7 @@ The components used-
 The wiring diagram-
 <img width="1773" height="1003" alt="Opera Snapshot_2026-06-01_142725_www canva com" src="https://github.com/user-attachments/assets/3165f760-9558-41bc-a598-ec67ca0cfcde" />
 
+change the wifi name and password in the code and you are good to go! 
+
 
 Credits- Inspiration for this project is taken from Huy vector, an amazing youtube channel I follow for hardware builds :D
