@@ -2,6 +2,8 @@
 Terminal-01 is a retro desk tabletop which will work as a clock, a pomodoro timer to help you through your work sessions and a gaming console for when you are bored! 
 it will have a raw and futuristric theme so will not use any casings.
 
+<img width="911" height="1404" alt="ZIne page for terminal-01" src="https://github.com/user-attachments/assets/61fb6cf6-30b2-4f57-bd96-a14a86e18108" />
+
 The components used- 
 
 1. ESP32 Type-C 38 Pin Dev Board – Dual Core WiFi+BT (Yes this will have wifi capabilities and will sink time automatically)
