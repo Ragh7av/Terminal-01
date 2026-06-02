@@ -23,4 +23,4 @@ Bill of materials-
 <img width="2381" height="379" alt="Opera Snapshot_2026-06-01_165751_docs google com" src="https://github.com/user-attachments/assets/7b7e789a-d8c5-41c2-80c8-13725fd3b636" />
 
 
-Credits- Inspiration for this project is taken from Huy vector, an amazing youtube channel I follow for hardware builds :D
+
