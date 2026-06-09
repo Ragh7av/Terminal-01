@@ -19,7 +19,8 @@ For a raw and futuristric theme, would recommend not using 3d printed casings an
   <img width="1626" height="909" alt="Opera Snapshot_2026-06-03_145325_excalidraw com" src="https://github.com/user-attachments/assets/fd128e2f-5b90-4256-b21e-cdc6e6aa6e62" />
 
 #The wiring diagram-
-<img width="1773" height="1003" alt="Opera Snapshot_2026-06-01_142725_www canva com" src="https://github.com/user-attachments/assets/3165f760-9558-41bc-a598-ec67ca0cfcde" />
+<img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/e9aeb7bc-977b-47e6-9933-fbc74801f3eb" />
+
 
 change the wifi name and password in the code and you are good to go! 
 
