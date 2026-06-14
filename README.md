@@ -51,9 +51,6 @@ I created this project  (which is also my first hardware project) for solving al
 | [`Zine.pdf`](Zine/Zine.pdf)/ [`Zine.png`](Zine/Zine.png)  | Project zine in PDF and image form |
 | [`wiring diagram`](https://github.com/Ragh7av/Terminal-01/tree/main/Wiring%20diagram) | Color coded diagram for connecting the wires |
 
-# The Zine page (for featuring in a hackclub magazine)
-<img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/550bf631-7f3a-4442-8d34-f5df3eb25656" />
-
 
 # 3d render of the assembly
 
@@ -72,6 +69,10 @@ I created this project  (which is also my first hardware project) for solving al
 <img width="965" height="528" alt="t-1 2 top" src="https://github.com/user-attachments/assets/44aee3d8-b07b-4caa-a4e2-eab0cca9a996" />
 <img width="1089" height="545" alt="t-1 2 overview" src="https://github.com/user-attachments/assets/417eb2f1-792f-44f3-8148-893bd5c1ddc7" />
 <img width="695" height="617" alt="t-1 2 right" src="https://github.com/user-attachments/assets/c5dcdf25-a576-42f3-8697-03767a15c0cb" />
+
+
+# The Zine page (for featuring in a hackclub magazine)
+<img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/d6e0b8f0-66f6-477e-a657-17be8239d955" />
 
 </div>
 
