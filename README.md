@@ -44,7 +44,7 @@ I created this project  (which is also my first hardware project) for solving al
 
 | Path | What it contains |
 | --- | --- |
-| [`3D Case Files/STEP Files`](https://github.com/Ragh7av/Terminal-01/tree/main/CAD) | Editable STEP files for the top and bottom case parts |
+| [`3D Case Files/STEP Files`](https://github.com/Ragh7av/Terminal-01/tree/main/CAD) | Editable STEP files for 3d printing the enclosure and assembly |
 | [`Firmware`](https://github.com/Ragh7av/Terminal-01/tree/main/Firmware) | Editable C++ code for the project |
 | [`Licence`](https://github.com/Ragh7av/Terminal-01/blob/main/LICENSE) | MIT Licence |
 | [`BOM`](https://github.com/Ragh7av/Terminal-01/tree/main/BOM) | CSV and XLSX versions of the bill of materials |
@@ -132,5 +132,5 @@ I created this project  (which is also my first hardware project) for solving al
 
  <h1>Inspirations</h1> 
  https://github.com/DjukicAleksej/Biblically-Accurate-USB-Hub/?tab=readme-ov-file For repository documentation.
- https://youtu.be/nUozTo_dhss?si=LCkojv6oHQSe04vr for the UI and Firmware
+ https://youtu.be/nUozTo_dhss?si=LCkojv6oHQSe04vr for the UI and Firmware.
  
