@@ -1,5 +1,5 @@
  <h1 align="center">Terminal-01</h1> 
-         
+<div align="center">         
 <p align="center">ADD PHOTO OF CAD 
 A compact clock and timer with a surprise of gaming abilities for when its needed, with a custom 3d printed case and a minimalistic theme. </p>
 
@@ -12,14 +12,15 @@ A compact clock and timer with a surprise of gaming abilities for when its neede
 
 
 <h1 align="center">Why am I even building this?</h1>
-<p align="center">I built this project as a part of an event called Fallout, organized by an non-profit organization called Hack Club, we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.</p>
+<p align="center">I built this project as a part of an event called [Fallout](https://fallout.hackclub.com), organized by an non-profit organization called [Hack Club](https://hackclub.com), we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.</p>
 
 <h1 align="center">Why Terminal-01?</h1>
-<p align="center">
+
 So I spend a lot of time on my desk and frequently use a dekstop [Pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) app to help me navigate my work/study sessions, I also use a physical clock for seeing time ofc and have nothing really to do in my breaks which wont distract me too much.
-I created this project  (which is also my first hardware project) for solving all these problems and  help myself getting [supercalifragilisticexpialidocious](https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious) in building super cool hardware things. </p>
+I created this project  (which is also my first hardware project) for solving all these problems and  help myself getting [supercalifragilisticexpialidocious](https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious) in building super cool hardware things. 
 
 <h1 align="center">The Features</h1>
+</div>
 
 1. Real-Time Clock: Displays an automatically synchronizing NTP time feed maintained by background Wi-Fi checks, featuring a persistent on-screen icon.
 
