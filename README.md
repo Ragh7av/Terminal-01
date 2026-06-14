@@ -1,6 +1,9 @@
  <h1 align="center">Terminal-01</h1> 
 <div align="center">         
-<p align="center">ADD PHOTO OF CAD 
+<p align="center">
+
+ <img width="881" height="598" alt="5-Photoroom" src="https://github.com/user-attachments/assets/2d643ba3-173a-47c6-ab77-f8a0cca7c4d4" />
+
 A compact clock and timer with a surprise of gaming abilities for when its needed, with a custom 3d printed case and a minimalistic theme. </p>
 
 
