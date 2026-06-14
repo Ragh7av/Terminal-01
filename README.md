@@ -45,7 +45,7 @@ I created this project  (which is also my first hardware project) for solving al
 | [`Firmware`](https://github.com/Ragh7av/Terminal-01/tree/main/Firmware) | Editable C++ code for the project |
 | [`Licence`](https://github.com/Ragh7av/Terminal-01/blob/main/LICENSE) | MIT Licence |
 | [`BOM`](https://github.com/Ragh7av/Terminal-01/tree/main/BOM) | CSV and XLSX versions of the bill of materials |
-| [`Zine.pdf`](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.pdf)/ [`Zine.png`]([https://github.com/Ragh7av/Terminal-01/blob/main/ZIne/Zine.pdf](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.png))  | Project zine in PDF and image form |
+| [`Zine.pdf`](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.pdf)/ [`Zine.png`]([https://github.com/Ragh7av/Terminal-01/blob/main/ZIne/Zine.pdf](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.png)  | Project zine in PDF and image form |
 | [`wiring diagram`](https://github.com/Ragh7av/Terminal-01/tree/main/Wiring%20diagram) | Color coded diagram for connecting the wires |
 
 # The Zine page (A hackclub magazine)
