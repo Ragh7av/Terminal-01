@@ -43,7 +43,7 @@ I created this project  (which is also my first hardware project) for solving al
 | [`3D Case Files/STEP Files`]() | Editable STEP files for the top and bottom case parts |
 | [`Firmware`]() | Editable C++ code for the project |
 | [`Licence`]() | MIT Licence |
-| [`BOM`](BOM) | CSV, TXT, and XLSX versions of the bill of materials |
+| [`BOM`](BOM) | CSV and XLSX versions of the bill of materials |
 | [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
 | [`wiring diagram`]() | Color coded diagram for connecting the wires |
 
