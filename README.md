@@ -40,15 +40,16 @@ I created this project  (which is also my first hardware project) for solving al
 
 | Path | What it contains |
 | --- | --- |
-| [`3D Case Files/STEP Files`]() | Editable STEP files for the top and bottom case parts |
-| [`Firmware`]() | Editable C++ code for the project |
-| [`Licence`]() | MIT Licence |
-| [`BOM`](BOM) | CSV and XLSX versions of the bill of materials |
-| [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
-| [`wiring diagram`]() | Color coded diagram for connecting the wires |
+| [`3D Case Files/STEP Files`](https://github.com/Ragh7av/Terminal-01/tree/main/CAD) | Editable STEP files for the top and bottom case parts |
+| [`Firmware`](https://github.com/Ragh7av/Terminal-01/tree/main/Firmware) | Editable C++ code for the project |
+| [`Licence`](https://github.com/Ragh7av/Terminal-01/blob/main/LICENSE) | MIT Licence |
+| [`BOM`](https://github.com/Ragh7av/Terminal-01/tree/main/BOM) | CSV and XLSX versions of the bill of materials |
+| [`Zine.pdf`](https://github.com/Ragh7av/Terminal-01/blob/main/ZIne/Zine.pdf)/ [`Zine.png`](https://github.com/Ragh7av/Terminal-01/blob/main/ZIne/Zine.pdf)  | Project zine in PDF and image form |
+| [`wiring diagram`](https://github.com/Ragh7av/Terminal-01/tree/main/Wiring%20diagram) | Color coded diagram for connecting the wires |
 
 # The Zine page
-<img width="911" height="1404" alt="ZIne page for terminal-01" src="https://github.com/user-attachments/assets/61fb6cf6-30b2-4f57-bd96-a14a86e18108" />
+<img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/550bf631-7f3a-4442-8d34-f5df3eb25656" />
+
 
 # 3d render of the assembly
 
