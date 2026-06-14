@@ -12,18 +12,43 @@ A compact clock and timer with a surprise of gaming abilities for when its neede
 
 
 <h1 align="center">Why am I even building this?</h1>
-I built this project as a part of an event called Fallout, organized by an non-profit organization called Hack Club, we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.
+<p align="center">I built this project as a part of an event called Fallout, organized by an non-profit organization called Hack Club, we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.</p>
 
 <h1 align="center">Why Terminal-01?</h1>
-
+<p align="center">
 So I spend a lot of time on my desk and frequently use a dekstop [Pomodoro timer](https://en.wikipedia.org/wiki/Pomodoro_Technique) app to help me navigate my work/study sessions, I also use a physical clock for seeing time ofc and have nothing really to do in my breaks which wont distract me too much.
-I created this project  (which is also my first hardware project) for solving all these problems and  help myself getting [supercalifragilisticexpialidocious](https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious) in building super cool hardware things.
+I created this project  (which is also my first hardware project) for solving all these problems and  help myself getting [supercalifragilisticexpialidocious](https://en.wikipedia.org/wiki/Supercalifragilisticexpialidocious) in building super cool hardware things. </p>
 
 <h1 align="center">The Features</h1>
 
+1. Real-Time Clock: Displays an automatically synchronizing NTP time feed maintained by background Wi-Fi checks, featuring a persistent on-screen icon.
 
+2. System Alarm: Offers an adjustable interface for setting daily alarms, triggering full-screen flashing visuals and audio sirens when activated.
 
+3. Productivity Timer: Includes a Pomodoro focus timer that alerts users with an aggressive flashing visual and buzzer when a work session completes.
+
+4. Gaming Console: Features a playable "Space Attack" arcade game with programmatic retro sound effects and dynamic boundary collision.
+
+5. Screensaver: Displays a bouncing DVD logo that allows for real-time kinetic speed adjustment using the rotary encoder wheel.
+   
+## Repository Contents
+
+| Path | What it contains |
+| --- | --- |
+| [`3D Case Files/STEP Files`]() | Editable STEP files for the top and bottom case parts |
+| [`Firmware`]() | Editable C++ code for the project |
+| [`Licence`]() | MIT Licence |
+| [`BOM`](BOM) | CSV, TXT, and XLSX versions of the bill of materials |
+| [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
+| [`wiring diagram`]() | Color coded diagram for connecting the wires |
+
+#The Zine page
 <img width="911" height="1404" alt="ZIne page for terminal-01" src="https://github.com/user-attachments/assets/61fb6cf6-30b2-4f57-bd96-a14a86e18108" />
+
+# 3d render of the assembly
+
+
+# Case
 
 # The components used- 
 
@@ -35,18 +60,25 @@ I created this project  (which is also my first hardware project) for solving al
 6. 1.8-inch TFT LCD Module
 7. Jumper cables
 
-
- # skectch for how will it look like-
-  <img width="1626" height="909" alt="Opera Snapshot_2026-06-03_145325_excalidraw com" src="https://github.com/user-attachments/assets/fd128e2f-5b90-4256-b21e-cdc6e6aa6e62" />
+# Bill of materials-
+| Product Name | Product Link | Quantity | Base Price | Tax (18%) | Shipping Share (flat shipping) | Total Cost |
+| --- | --- | --- | --- | --- | --- | --- |
+| ESP32 Type-C 38 Pin Dev Board – Dual Core WiFi+BT | [Link](https://robosap.in/product/esp32-type-c-38-pin-dev-board-dual-core-wifibt/) | 1 | ₹335.00 | ₹60.30 | ₹14.29 | ₹409.59 |
+| KY-040 Rotary Encoder Module | [Link](https://robosap.in/product/rotary-encoder-module-for-arduino/) | 1 | ₹51.00 | ₹9.18 | ₹14.29 | ₹74.47 |
+| 3.7V 2500mAh 18650 Lithium Ion Rechargeable Battery | [Link](https://robosap.in/product/3-7v-2500mah-18650-lithium-ion-rechargeable-battery/) | 1 | ₹68.00 | ₹12.24 | ₹14.29 | ₹94.53 |
+| Tp4056 1A Lithium Battery Charging Protection Board Module Type C Usb Interface To 4.2V | [Link](https://robosap.in/product/tp4056-1a-lithium-battery-charging-protection-board-module-type-c-usb-interface-to-4-2v/) | 1 | ₹16.00 | ₹2.88 | ₹14.29 | ₹33.17 |
+| 8 Ohm 0.5 Watt Speaker-40mm | [Link](https://robosap.in/product/8-ohm-0-5-watt-speaker-40mm/) | 1 | ₹45.00 | ₹8.10 | ₹14.29 | ₹67.39 |
+| 1.8-inch TFT LCD Module | [Link](https://robosap.in/product/1-8-inch-tft-spi-lcd-display-module/) | 1 | ₹280.00 | ₹50.40 | ₹14.29 | ₹344.69 |
+| Jumper cables | [Link](https://robosap.in/product/jumper-wire-set-of-male-to-male-male-to-female-and-female-to-female/) | 1 | ₹150.00 | ₹27.00 | ₹14.29 | ₹191.29 |
+| **Total** |  |  | **₹945.00** | **₹170.10** | **₹100.00** | **₹1,215.10** |
 
 #The wiring diagram-
 <img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/e9aeb7bc-977b-47e6-9933-fbc74801f3eb" />
 
 
-change the wifi name and password in the code and you are good to go! 
+# Step-wise tutorial for building it yourself
 
-# Bill of materials-
-<img width="1977" height="356" alt="Opera Snapshot_2026-06-09_135447_docs google com" src="https://github.com/user-attachments/assets/86f6d622-c707-4dbc-9cb9-ce7ae723c57c" />
+
 
 </p>
 
