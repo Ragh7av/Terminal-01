@@ -101,11 +101,31 @@ I created this project  (which is also my first hardware project) for solving al
 <img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/e9aeb7bc-977b-47e6-9933-fbc74801f3eb" />
 
 
-# Step-wise tutorial for building it yourself
-buy.
-assemble with some commonsense.
-upload firmware.
-thats it!
+
+# How to make one at home
+1. **Order the PCB.** Use the Gerber ZIP in [`PCB Files`](PCB%20Files) or open the EasyEDA project file if you want to inspect or modify the design first. PCBA assembly is recommended because the USB connectors and small passives are much easier to place cleanly with a board house.
+2. **Print the case parts.** Export the top cover, bottom cover, and halo ring from the STEP files to your preferred slicer format, or slice the STL exports if you have them. A 0.2mm layer height works well for the enclosure; enable supports where your slicer needs them around overhangs and connector cutouts.
+3. **Choose the finish.** The case is designed around a white-and-gold look. You can print the top as separate white/gold parts, print in one color and paint the raised details, or use the included CAD as a starting point for your own color split.
+4. **Install the heat-set inserts.** Press four M3 heat-set inserts into the bottom case standoffs with a soldering iron set to a controlled temperature. Keep the inserts straight so the screws line up cleanly with the top cover.
+5. **Seat the PCB.** Place the assembled PCB into the bottom shell and check that the USB-A and USB-C ports line up with the side openings. If a print is tight, lightly clean the cutouts before forcing the board.
+6. **Close the case.** Set the top cover onto the bottom shell and secure it with four M3 x 16mm screws. Tighten gently into the inserts; snug is enough for a printed case.
+7. **Test it.** Plug the hub into a computer, then test each downstream port with a simple USB device before trusting it with anything important.
+
+## Printing Notes
+
+- Use enough walls to keep the screw posts sturdy; 3 or more perimeters is a good starting point.
+- Keep the heat-set insert holes clean. If they come out undersized, open them carefully instead of melting aggressively.
+- Test-fit the PCB before final assembly, especially around the USB connector cutouts.
+- The halo and raised details are decorative, so print orientation can be chosen for the cleanest visible surface.
+
+  ## Firmware setup
+  - Replace "Your_wifi" and "pass" with your personal network details (keep the quotation marks).
+  - Set Your Local Time Zone by finding the time offset line in the code which looks like-
+   '''const long gmtOffset_sec = 19800;'''
+  If you are in India (IST), leave it at 19800 (5.5 hours × 3600 seconds).
+  If you are in a different time zone, multiply your GMT/UTC offset hours by 3600 and enter that value.
+   - Upload to Board: Connect your ESP32-C3 SuperMini via a USB-C cable, select the correct Port under Tools > Port, and click the Upload arrow button.
+
 
 
 </p>
