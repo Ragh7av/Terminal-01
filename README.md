@@ -51,14 +51,27 @@ I created this project  (which is also my first hardware project) for solving al
 | [`Zine.pdf`](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.pdf)/ [`Zine.png`](https://github.com/Ragh7av/Terminal-01/blob/main/Zine/Zine.png)  | Project zine in PDF and image form |
 | [`wiring diagram`](https://github.com/Ragh7av/Terminal-01/tree/main/Wiring%20diagram) | Color coded diagram for connecting the wires |
 
-# The Zine page (A hackclub magazine)
+# The Zine page (for featuring in a hackclub magazine)
 <img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/550bf631-7f3a-4442-8d34-f5df3eb25656" />
 
 
 # 3d render of the assembly
 
+<img width="744" height="775" alt="t1 1 right" src="https://github.com/user-attachments/assets/e2dd0b2b-359b-4211-ba6c-3b8c67448e5f" />
+<img width="1372" height="760" alt="t1 1 back" src="https://github.com/user-attachments/assets/877184fc-3219-41e4-a6a3-05bd65cc9609" />
+<img width="1154" height="615" alt="t-1 1 front" src="https://github.com/user-attachments/assets/51354a61-88d5-496c-96b3-dd11af59533c" />
+<img width="1301" height="750" alt="t1 1 top" src="https://github.com/user-attachments/assets/54ddef35-7762-4fa6-b4d5-7010b2984853" />
+<img width="928" height="757" alt="t1 1 left" src="https://github.com/user-attachments/assets/1c52db39-b2e2-4048-98c4-e2e3b4142f04" />
+<img width="1181" height="741" alt="t1 1 pverview" src="https://github.com/user-attachments/assets/2d40dd26-453f-41a1-9229-020b8603d807" />
+
 
 # Case
+
+<img width="1317" height="746" alt="t-1 2 back" src="https://github.com/user-attachments/assets/d0e61939-db62-4721-879d-d2a159d6ebae" />
+<img width="1062" height="632" alt="t-1 2 front" src="https://github.com/user-attachments/assets/58f2f86e-5d25-4d02-8926-fcaaab9d4fa9" />
+<img width="965" height="528" alt="t-1 2 top" src="https://github.com/user-attachments/assets/44aee3d8-b07b-4caa-a4e2-eab0cca9a996" />
+<img width="1089" height="545" alt="t-1 2 overview" src="https://github.com/user-attachments/assets/417eb2f1-792f-44f3-8148-893bd5c1ddc7" />
+<img width="695" height="617" alt="t-1 2 right" src="https://github.com/user-attachments/assets/c5dcdf25-a576-42f3-8697-03767a15c0cb" />
 
 </div>
 
@@ -89,7 +102,10 @@ I created this project  (which is also my first hardware project) for solving al
 
 
 # Step-wise tutorial for building it yourself
-
+buy.
+assemble with some commonsense.
+upload firmware.
+thats it!
 
 
 </p>
