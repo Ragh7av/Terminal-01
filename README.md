@@ -12,7 +12,11 @@ A compact clock and timer with a surprise of gaming abilities for when its neede
 
 
 <h1 align="center">Why am I even building this?</h1>
-<p align="center">I built this project as a part of an event called [Fallout](https://fallout.hackclub.com), organized by an non-profit organization called [Hack Club](https://hackclub.com), we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.</p>
+<p align="center">
+ 
+ I built this project as a part of an event called [Fallout](https://fallout.hackclub.com), organized by an non-profit organization called [Hack Club](https://hackclub.com), we build and ship hardware projetcs and for that we get some cool gifts and grants to build it irl. After building hardware projects for 60 hours, we get invited to Shenzen, China on a Hardware Hackathon, I am building this project to work toward those 60 hours.
+ 
+ </p>
 
 <h1 align="center">Why Terminal-01?</h1>
 
@@ -43,7 +47,7 @@ I created this project  (which is also my first hardware project) for solving al
 | [`Zine.pdf`](Zine.pdf) / [`Zine.png`](Zine.png) | Project zine in PDF and image form |
 | [`wiring diagram`]() | Color coded diagram for connecting the wires |
 
-#The Zine page
+# The Zine page
 <img width="911" height="1404" alt="ZIne page for terminal-01" src="https://github.com/user-attachments/assets/61fb6cf6-30b2-4f57-bd96-a14a86e18108" />
 
 # 3d render of the assembly
@@ -73,7 +77,7 @@ I created this project  (which is also my first hardware project) for solving al
 | Jumper cables | [Link](https://robosap.in/product/jumper-wire-set-of-male-to-male-male-to-female-and-female-to-female/) | 1 | ₹150.00 | ₹27.00 | ₹14.29 | ₹191.29 |
 | **Total** |  |  | **₹945.00** | **₹170.10** | **₹100.00** | **₹1,215.10** |
 
-#The wiring diagram-
+# The wiring diagram-
 <img width="1920" height="1080" alt="Untitled design" src="https://github.com/user-attachments/assets/e9aeb7bc-977b-47e6-9933-fbc74801f3eb" />
 
 
@@ -85,6 +89,7 @@ I created this project  (which is also my first hardware project) for solving al
 
 
 
- <h1 align="center">Inspirations</h1> 
- https://github.com/DjukicAleksej/Biblically-Accurate-USB-Hub/?tab=readme-ov-file For the formatting in the repository.
+ <h1>Inspirations</h1> 
+ https://github.com/DjukicAleksej/Biblically-Accurate-USB-Hub/?tab=readme-ov-file For repository documentation.
+ https://youtu.be/nUozTo_dhss?si=LCkojv6oHQSe04vr for the UI and Firmware
  
