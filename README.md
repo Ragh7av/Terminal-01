@@ -58,6 +58,7 @@ I created this project  (which is also my first hardware project) for solving al
 # Case
 
 </div>
+
 # The components used- 
 
 1. ESP32-C3 Super Mini USB C-Type Development Board (Yes this will have wifi capabilities and will sink time automatically)
