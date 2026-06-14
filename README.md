@@ -102,21 +102,18 @@ I created this project  (which is also my first hardware project) for solving al
 
 
 
-# How to make one at home
-1. **Order the PCB.** Use the Gerber ZIP in [`PCB Files`](PCB%20Files) or open the EasyEDA project file if you want to inspect or modify the design first. PCBA assembly is recommended because the USB connectors and small passives are much easier to place cleanly with a board house.
-2. **Print the case parts.** Export the top cover, bottom cover, and halo ring from the STEP files to your preferred slicer format, or slice the STL exports if you have them. A 0.2mm layer height works well for the enclosure; enable supports where your slicer needs them around overhangs and connector cutouts.
-3. **Choose the finish.** The case is designed around a white-and-gold look. You can print the top as separate white/gold parts, print in one color and paint the raised details, or use the included CAD as a starting point for your own color split.
-4. **Install the heat-set inserts.** Press four M3 heat-set inserts into the bottom case standoffs with a soldering iron set to a controlled temperature. Keep the inserts straight so the screws line up cleanly with the top cover.
-5. **Seat the PCB.** Place the assembled PCB into the bottom shell and check that the USB-A and USB-C ports line up with the side openings. If a print is tight, lightly clean the cutouts before forcing the board.
-6. **Close the case.** Set the top cover onto the bottom shell and secure it with four M3 x 16mm screws. Tighten gently into the inserts; snug is enough for a printed case.
-7. **Test it.** Plug the hub into a computer, then test each downstream port with a simple USB device before trusting it with anything important.
+# How to Build it?
 
-## Printing Notes
+**To replicate , follow the below mentioned steps:**
+1) First, go grab the CAD from the CAD folder..or you can download the files from [here](https://github.com/Ragh7av/Terminal-01/tree/main/CAD/CAD%20files). I prefer going to the CAD folder and go through the CAD.md for detailed understanding of the CAD.
+2) Then grab the parts mentioned in the [BOM](https://github.com/Ragh7av/Terminal-01/blob/main/BOM/BOM.csv)..
+3) Wire up the electronics as per the [Circuit Diagram](https://github.com/Ragh7av/Terminal-01/blob/main/Wiring-diagram/Wiring%20diagram%20for%20Terminal-01%20%20%20(1).png).
+4) Then upload the code from [here](https://github.com/Ragh7av/Terminal-01/blob/main/Firmware/Firmware.ino) in your ESP.
+5) Check if everything is working properly.If yes then proceed to next step or check previous steps again.
+6) Then assemble everything in the 3D shell as per the completely assemble .step file of the CAD
 
-- Use enough walls to keep the screw posts sturdy; 3 or more perimeters is a good starting point.
-- Keep the heat-set insert holes clean. If they come out undersized, open them carefully instead of melting aggressively.
-- Test-fit the PCB before final assembly, especially around the USB connector cutouts.
-- The halo and raised details are decorative, so print orientation can be chosen for the cleanest visible surface.
+*Hurrahh!!You replicated Terminal-01*
+
 
   ## Firmware setup
   - Replace "Your_wifi" and "pass" with your personal network details (keep the quotation marks).
