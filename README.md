@@ -35,7 +35,8 @@ I created this project  (which is also my first hardware project) for solving al
 4. Gaming Console: Features a playable "Space Attack" arcade game with programmatic retro sound effects and dynamic boundary collision.
 
 5. Screensaver: Displays a bouncing DVD logo that allows for real-time kinetic speed adjustment using the rotary encoder wheel.
-<div align="center">    
+<div align="center">   
+ 
 # Repository Contents
 
 | Path | What it contains |
