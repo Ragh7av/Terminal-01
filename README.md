@@ -36,7 +36,7 @@ I created this project  (which is also my first hardware project) for solving al
 
 5. Screensaver: Displays a bouncing DVD logo that allows for real-time kinetic speed adjustment using the rotary encoder wheel.
 <div align="center">    
-## Repository Contents
+# Repository Contents
 
 | Path | What it contains |
 | --- | --- |
