@@ -72,7 +72,8 @@ I created this project  (which is also my first hardware project) for solving al
 
 
 # The Zine page (for featuring in a hackclub magazine)
-<img width="486" height="749" alt="Zine" src="https://github.com/user-attachments/assets/d6e0b8f0-66f6-477e-a657-17be8239d955" />
+<img width="972" height="1498" alt="Zine (4)" src="https://github.com/user-attachments/assets/6c45b5e5-cb60-470f-86bc-57280820cd7d" />
+
 
 </div>
 
